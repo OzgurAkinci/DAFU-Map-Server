@@ -3,7 +3,7 @@ DAFU Map Server (In Progress..)
 
 ## Get Token
 
-Authorization Tab
+Authorization
 
 ```bash
 Type: Basic Auth
@@ -11,14 +11,14 @@ Username: dafumap
 Password: dafumap
 ```
 
-Header Tab
+Header
 
 ```bash
 Content-Type: application/x-www-form-urlencoded
 Authorization: Basic ZGFmdW1hcDpkYWZ1bWFw
 ```
 
-Body Tab
+Body
 
 ```bash
 grant_type: password
