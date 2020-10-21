@@ -7,15 +7,15 @@ Authorization Tab
 
 ```bash
 Type: Basic Auth
-Username: appsecurity
-Password: appsecurity
+Username: dafumap
+Password: dafumap
 ```
 
 Header Tab
 
 ```bash
 Content-Type: application/x-www-form-urlencoded
-Authorization: Basic YXBwc2VjdXJpdHk6YXBwc2VjdXJpdHk=
+Authorization: Basic ZGFmdW1hcDpkYWZ1bWFw
 ```
 
 Body Tab
