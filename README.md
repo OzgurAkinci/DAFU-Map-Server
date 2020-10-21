@@ -1,5 +1,5 @@
 ## DAFU-Map-Server Application
-DAFU Map Server (In progress)
+DAFU Map Server (In Progress..)
 
 ## Get Token
 
